@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(35, 25, 66);
+    margin: 0%;
+    color: rgb(153, 155, 229);
+    text-align: center;
+    font-size: 5.625rem;  
+    margin: 10px;
+
+}
+
+ul{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    height: 100px; 
+    line-height: 40px;
+    margin: 0px auto 0 auto; 
+    padding-bottom: 90px
+
+}
+
+
+
+h1{
+    color:rgb(255, 255, 255);
+    font-size: 70px;
+    height: 100px; 
+    line-height: 200px;
+    margin: 50px auto 0 auto; 
+    font-family: "Cedarville Cursive", cursive;
+    padding-bottom: 15px
+}
+
+
+h2 {
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+    height: 150px; 
+    line-height: 180px;
+    margin: 50px auto 0 auto; 
+    padding-bottom: 15px
+}
+
+h3{
+    color:rgb(255, 255, 255);
+    font-size: 70px;
+    height: 150px; 
+    line-height: 180px;
+    margin: 150px auto 0 auto; 
+    padding-bottom: 90px
+}
+
+
+
+a{
+    color: rgb(140, 120, 161); 
+    font-family: "Abril Fatface", serif;
+    margin: 10px 30px;
+    text-decoration: none;
+    font-size: 40px;
+    padding-bottom: 15px
+}
+
+.contenedorHobbies {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    font-size: 30px;
+    position: relative;
+    padding-bottom: 130px
+}
+
+.contenedorMusicales {
+    color:rgb(255, 255, 255);
+    font-size: 60px;
+    height: 180px; 
+    line-height: 180px;
+    margin: 50px auto 0 auto; 
+    padding-bottom: 15px
+}

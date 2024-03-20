@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(35, 25, 66);
+    margin: 0%;
+    color: rgb(153, 155, 229);
+    text-align: center;
+    font-size: 5.625rem;  
+    margin: 10px;
+
+}
+
+h1{
+    color:rgb(255, 255, 255);
+    font-size: 70px;
+    height: 100px; 
+    line-height: 180px;
+    margin: 50px auto 0 auto; 
+    font-family: "Cedarville Cursive", cursive;
+    padding-bottom: 15px
+}
+
+a{
+    color: rgb(140, 120, 161); 
+    background-color: white;
+    font-family: "Abril Fatface", serif;
+    margin: 10px 30px;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.contenedorBranding {
+    background-color: rgb(159, 134, 192);
+    color: white;
+    position: relative;
+    padding-top: 100px;
+    font-size: 50px;
+    position: relative;
+    padding-bottom: 130px
+   
+   
+}
+
+dt{
+    font-family: "Abril Fatface", serif;
+}
+
+dd{
+    font-family: "Telex", sans-serif;
+    font-size: 30px;
+}
+
+.contenedorDiseñoEditorial {
+    background-color: rgb(190, 149, 196);
+    color: white;
+    position: relative;
+    padding-top: 100px;
+    font-size: 35px;
+    position: relative;
+    padding-bottom: 130px
+
+}
+
+.contenedorMultimedia {
+    background-color: rgb(159, 134, 192);
+    color: white;
+    position: relative;
+    padding-top: 100px;
+    font-size: 35px;
+    position: relative;
+    padding-bottom: 130px
+
+}
